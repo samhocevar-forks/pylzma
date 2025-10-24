@@ -195,7 +195,7 @@ tests_require = []
 
 setup(
     name = "pylzma",
-    version = version,
+    version = "0.5.0",
     description = descr,
     author = "Joachim Bauch",
     author_email = "mail@joachim-bauch.de",
